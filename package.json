@@ -1,7 +1,7 @@
 {
-  "name": "Attached",
+  "name": "Engine",
   "version": "0.0.0",
-  "description": "Attached Self Bot v1",
+  "description": "Engine Self Bot",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,6 @@
     "discord.js": "^11.4.2",
     "file-system": "^2.2.2",
     "fs": "0.0.1-security",
-    "opusscript": "0.0.6",
-    "http": "^0.0.0"
+    "opusscript": "0.0.6"
   }
 }
