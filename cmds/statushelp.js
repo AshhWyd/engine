@@ -12,7 +12,7 @@ module.exports.run = async (bot, message, args, owner, prefix) => {
     .addField("Reset to Online:",`${prefix}setstatus default`)
     .setColor("#af84ff")
     .setTimestamp()
-    .setFooter(`Attached v1 - Prefix: ${prefix}`)
+    .setFooter(`Engine - Prefix: ${prefix}`)
   
 
     if(args[0] == "status"){
